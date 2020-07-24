@@ -1,6 +1,6 @@
 baseURL = "https://teamhkg.netlify.app/"
 languageCode = "en-us"
-paginate = 6
+paginate = "3"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
@@ -25,7 +25,7 @@ description = "This is meta description"
 email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-layout = "1"
+layout = "2"
 logo = "images/logo.png"
 mobile = "+90 000 333 22"
 preloader = true
