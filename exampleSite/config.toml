@@ -1,6 +1,6 @@
 baseURL = "https://teamhkg.netlify.app/"
 languageCode = "en-us"
-paginate = "3"
+paginate = "1"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
